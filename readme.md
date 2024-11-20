@@ -21,7 +21,7 @@ I would recommend everone getting started with Azure to take the [Azure Fundamen
 ### Client SDKs
 
 - [Java Azure service bus client](https://learn.microsoft.com/en-us/java/api/overview/azure/messaging-servicebus-readme?view=azure-java-stable) - Client library for Azure service bus written in Javago
-- [Ballerina Azure service bus client](https://central.ballerina.io/ballerinax/asb/latest) - Client library for Azure service bus written in Ballerina language
+- [Ballerina Azure service bus client](https://central.ballerina.io/ballerinax/asb/latest) - Client library for Azure service bus written in [Ballerina language](https://ballerina.io/)
 
 ## Microsoft Azure Links
 * [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/) - Visit Microsoft's web page describing the services they provide in Azure.

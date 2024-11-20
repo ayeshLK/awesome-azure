@@ -18,6 +18,11 @@ I would recommend everone getting started with Azure to take the [Azure Fundamen
 * [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/) - Desktop client to easily manage Storage anywhere from Windows, MacOS, and Linux
 * [Azure Resource Explorer](https://resources.azure.com/) - Allows you to view and edit Azure resource definitions directly from their JSON manfinests; effectively bypassing the API.
 
+### Client SDKs
+
+- [Java Azure service bus client](https://learn.microsoft.com/en-us/java/api/overview/azure/messaging-servicebus-readme?view=azure-java-stable) - Client library for Azure service bus written in Javago
+- [Ballerina Azure service bus client](https://central.ballerina.io/ballerinax/asb/latest) - Client library for Azure service bus written in Ballerina language
+
 ## Microsoft Azure Links
 * [Microsoft Azure Homepage](https://azure.microsoft.com/en-us/) - Visit Microsoft's web page describing the services they provide in Azure.
 * [Microsoft Azure Free Trial](https://azure.microsoft.com/en-us/free/) - Create a free trial for 30 days. You will use your credit card for verification but you will not be charged for the products after the period ends.
